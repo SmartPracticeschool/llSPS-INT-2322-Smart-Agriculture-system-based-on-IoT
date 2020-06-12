@@ -4,3 +4,5 @@ Smart Agriculture system based on IoT
 2) Run the Node-Red locally for easy installation of Add on
 3) Above report is based on the local installation of node red
 4) Background of the web page can be saved by changing the HTML code in the template
+
+YouTube link: https://youtu.be/EvaVwRJkNdA
