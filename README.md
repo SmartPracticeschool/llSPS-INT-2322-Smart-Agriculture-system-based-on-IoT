@@ -6,3 +6,4 @@ Smart Agriculture system based on IoT
 4) Background of the web page can be saved by changing the HTML code in the template
 
 YouTube link: https://youtu.be/EvaVwRJkNdA
+Feedbak link: https://youtu.be/Lt0aZTnHTGQ
